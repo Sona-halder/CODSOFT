@@ -10,12 +10,12 @@ Artificial Intelligence projects demonstrating core AI concepts - Natural Langua
 *Task 1: Rule-Based Chatbot* `[task1_chatbot/]`
 - NLP Techniques: Regex pattern matching, keyword intent recognition
 - Features: Greetings, math calculations, Delhi-specific responses, jokes, facts
-- Run: `python simple_chatbot.py`
+- Run: `python chatbot.py`
 
 *Task 2: Unbeatable Tic-Tac-Toe AI* `[task2_tictactoe/]`
 - AI Algorithm: Minimax (perfect gameplay - never loses)
 - Features: Clean X/O console UI, input validation
-- Run: `python tic_tac_toe_clean.py`
+- Run: `python tic_tac_toe.py`
 
 *Task 3: Movie Recommendation System* `[task3_recommender/]`
 - AI Technique: Collaborative Filtering (Cosine Similarity)
@@ -31,9 +31,9 @@ Artificial Intelligence projects demonstrating core AI concepts - Natural Langua
 CODSOFT/
 ├── README.md ← This file
 ├── task1_chatbot/
-│ └── simple_chatbot.py
+│ └── chatbot.py
 ├── task2_tictactoe/
-│ └── tic_tac_toe_clean.py
+│ └── tic_tac_toe.py
 ├── task3_recommender/
 │ └── movie_recommender.py
 └── task4_image_caption/
@@ -63,11 +63,11 @@ CODSOFT/
    • Tic-Tac-Toe AI (Task 2):
      python task2_tictactoe/tic_tac_toe.py
 
-   • Image Captioning AI (Task 3):
-     python task4_image_caption/image_caption_ai.py
-
-    • Movie Recommendation System (Task 4):
+   • Movie Recommendation System (Task 3):
      python task3_recommender/movie_recommender.py
+
+   • Image Captioning AI (Task 4):
+     python task4_image_caption/image_caption_ai.py
    
    
 All tasks were completed as part of the CODSOFT Artificial Intelligence Internship.
