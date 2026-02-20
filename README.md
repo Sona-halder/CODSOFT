@@ -52,12 +52,24 @@ CODSOFT/
 
 
 **Quick Start**
-1. Clone: `git clone https://github.com/YOUR_USERNAME/CODSOFT.git`
-2. Run each project from its folder
+1. Clone: `git clone https://github.com/Sona-halder/CODSOFT.git`
+2. Navigate into the project folder: cd CODSOFT
+3. Ensure Python 3.x is installed on your system.
+4. 4. Run individual tasks:
 
----
+   • Chatbot (Task 1):
+     python task1_chatbot/chatbot.py
 
-**Replace `YOUR_USERNAME` with your GitHub username!**
+   • Tic-Tac-Toe AI (Task 2):
+     python task2_tictactoe/tic_tac_toe.py
+
+   • Image Captioning AI (Task 3):
+     python task4_image_caption/image_caption_ai.py
+
+    • Movie Recommendation System (Task 4):
+     python task3_recommender/movie_recommender.py
+   
+All tasks were completed as part of the CODSOFT Artificial Intelligence Internship.
 
 *Completed for CodSoft AI Internship - February 2026*
 
